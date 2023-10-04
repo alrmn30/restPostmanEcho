@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/srmv8yh61jt2kwiv?svg=true)](https://ci.appveyor.com/project/alrmn30/restpostmanecho)
